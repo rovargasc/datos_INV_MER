@@ -1,4 +1,4 @@
-ventas
+gramaje
 113.2
 106.7
 90.0
